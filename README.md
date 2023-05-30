@@ -16,6 +16,7 @@ Game controls:
 "A" : left  
 "E" : up  
 "X" : down  
+Mouse
 2) Big Sphere movement  
 "=" : front  
 "-" : back  

@@ -9,20 +9,20 @@ How to run it:
 
 Game controls:
 
-1) Camera movement 
-"W" : front
-"S" : back
-"D" : right
-"A" : left
-"E" : up
-"X" : down
-2) Big Sphere movement
-"=" : front
-"-" : back
-"key right" : right
-"key left" : left
-"key up" : up
-"key down" : down
+1) Camera movement  
+"W" : front  
+"S" : back  
+"D" : right  
+"A" : left  
+"E" : up  
+"X" : down  
+2) Big Sphere movement  
+"=" : front  
+"-" : back  
+"key right" : right  
+"key left" : left  
+"key up" : up  
+"key down" : down  
 3) Big Sphere Texture "T"
 4) New obgjects "Space"
 5) Speed of the objects "<",">"

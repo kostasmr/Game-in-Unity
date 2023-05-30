@@ -16,7 +16,7 @@ Game controls:
 "A" : left
 "E" : up
 "X" : down
-2) Big Sphere movement with 
+2) Big Sphere movement  
 "=" : front
 "-" : back
 "key right" : right
@@ -25,4 +25,4 @@ Game controls:
 "key down" : down
 3) Big Sphere Texture "T"
 4) New obgjects "Space"
-5) Change speed of the objects with "<" and ">"
+5) Speed of the objects "<",">"
